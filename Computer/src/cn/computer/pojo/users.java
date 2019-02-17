@@ -4,4 +4,8 @@ public class users {
   private int id;
   private String name;
   private String sexString;
+  private String passwordString;
+  private void name() {
+	
+}
 }
