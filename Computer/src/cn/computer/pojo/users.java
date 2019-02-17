@@ -8,4 +8,7 @@ public class users {
   private void name() {
 	
 }
+  private static void name() {
+	
+}
 }
