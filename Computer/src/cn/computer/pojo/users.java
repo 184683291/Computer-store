@@ -9,6 +9,6 @@ public class users {
 	
 }
   private static void name() {
-	lll杀杀杀
+	lll杀杀杀杀杀杀
 }
 }
