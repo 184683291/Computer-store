@@ -1,14 +1,52 @@
 package cn.computer.pojo;
 
 public class users {
-  private int id;
-  private String name;
-  private String sexString;
-  private String passwordString;
-  private void name() {
-	
-}
-  private static void name() {
-	lllæ€æ€æ€æ€æ€æ€
-}
+	private int u_id;//ÓÃ»§±àºÅ
+	private String user_name;//ÓÃ»§ÕËºÅ
+	private String password;//ÓÃ»§ÃÜÂë
+	private String name;//ÓÃ»§ÐÕÃû
+	private String phone;//ÓÃ»§µç»°
+
+
+
+	public int getU_id() {
+		return u_id;
+	}
+
+	public void setU_id(int u_id) {
+		this.u_id = u_id;
+	}
+
+	public String getUser_name() {
+		return user_name;
+	}
+
+	public void setUser_name(String user_name) {
+		this.user_name = user_name;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getPhone() {
+		return phone;
+	}
+
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+
 }
