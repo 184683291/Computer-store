@@ -1,9 +1,8 @@
 package cn.computer.pojo;
 
-public class type {
-	private int id;//类型编号
-	private String name;//类型名称
-
+public class product {
+	private int id;//系列id
+	private String name;//系列名称
 	public int getId() {
 		return id;
 	}
@@ -16,4 +15,5 @@ public class type {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
 }

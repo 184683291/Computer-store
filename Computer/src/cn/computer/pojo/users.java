@@ -1,7 +1,7 @@
 package cn.computer.pojo;
 
 public class users {
-	private int u_id;//用户编号
+	private int id;//用户编号
 	private String user_name;//用户账号
 	private String password;//用户密码
 	private String name;//用户姓名
@@ -9,12 +9,12 @@ public class users {
 
 
 
-	public int getU_id() {
-		return u_id;
+	public int getId() {
+		return id;
 	}
 
-	public void setU_id(int u_id) {
-		this.u_id = u_id;
+	public void setId(int id) {
+		this.id = id;
 	}
 
 	public String getUser_name() {
